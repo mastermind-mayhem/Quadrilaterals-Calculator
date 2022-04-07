@@ -5,7 +5,11 @@ Then make an educated guess on what quadrilateral it is
 # Output:
 _Distances_
 AB, BC, CD, etc
+
+
 _Slopes_
 AB, BC, CD, etc
+
+
 _Midpoint_
 AC BD
